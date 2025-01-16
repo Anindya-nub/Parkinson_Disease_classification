@@ -17,20 +17,6 @@ To run this project, ensure you have the following installed:
   - `scikit-learn`
   - Other dependencies (listed in the notebook)
 
-## Installation
-1. Clone this repository:
-   ```bash
-   git clone <https://github.com/Anindya-nub/Parkinson_Disease_classification>
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd parkinson-disease-classification
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 1. Open the Jupyter Notebook:
    ```bash
