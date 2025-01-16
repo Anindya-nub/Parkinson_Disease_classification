@@ -20,7 +20,7 @@ To run this project, ensure you have the following installed:
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Anindya-nub/Parkinson_Disease_classification>
    ```
 2. Navigate to the project directory:
    ```bash
